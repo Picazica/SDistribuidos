@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Leiloes()
+comment1.params=item\ vendedor\ valor
+comment1.target=int\ adicionarLeilao(java.lang.String,\ java.lang.String,\ float)
+comment2.params=codigo\ nome\ valor
+comment2.target=void\ adicionarLicitacao(int,\ java.lang.String,\ float)
+comment3.params=
+comment3.target=java.util.Collection\ getTodos()
+comment4.params=x\ nome
+comment4.target=Leilao\ fecharLeilao(int,\ java.lang.String)
+numComments=5

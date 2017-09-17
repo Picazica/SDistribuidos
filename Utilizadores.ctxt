@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Utilizadores()
+comment1.params=utilizadores
+comment1.target=Utilizadores(java.util.TreeMap)
+comment2.params=nome\ password
+comment2.target=void\ adicionarUtilizador(java.lang.String,\ java.lang.String)
+comment3.params=nome\ password\ cs
+comment3.target=Utilizador\ logIn(java.lang.String,\ java.lang.String,\ java.net.Socket)
+comment4.params=x
+comment4.target=boolean\ contem(java.lang.String)
+comment5.params=licitadores
+comment5.target=java.util.Set\ compara(java.util.Set)
+comment6.params=nome
+comment6.target=void\ logOut(java.lang.String)
+numComments=7

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=nome\ password
+comment0.target=Utilizador(java.lang.String,\ java.lang.String)
+comment1.params=password\ cs
+comment1.target=void\ logIn(java.lang.String,\ java.net.Socket)
+comment2.params=
+comment2.target=void\ logOut()
+comment3.params=
+comment3.target=boolean\ estaOnline()
+comment4.params=
+comment4.target=java.net.Socket\ getSocket()
+numComments=5

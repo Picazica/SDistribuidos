@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=cliente\ utilizadores\ leiloes
+comment0.target=Handler(java.net.Socket,\ Utilizadores,\ Leiloes)
+comment1.params=
+comment1.target=void\ run()
+comment2.params=x
+comment2.target=void\ randomShutDown(java.lang.String)
+comment3.params=
+comment3.target=void\ printMenu()
+comment4.params=
+comment4.target=void\ printLeilao()
+comment5.params=l1
+comment5.target=void\ printNotificao(Leilao)
+comment6.params=mensagem
+comment6.target=void\ executarComando(java.lang.String)
+numComments=7
